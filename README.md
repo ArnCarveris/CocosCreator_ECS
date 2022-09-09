@@ -1,3 +1,5 @@
+https://discuss.cocos2d-x.org/t/implementation-ecs-framework-behavior-tree-for-fighting-game-ai/56409
+
 # 在Cocos中使用ECS + BehaviorTree 实现格斗AI
 ### 成品展示
 
